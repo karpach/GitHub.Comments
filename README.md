@@ -24,6 +24,8 @@ GitHub Comments is Visual Studio extension with the following features:
   
 ![Screenshot3](Screenshots/screenshot3.png)  
 
+![Screenshot3](Screenshots/screenshot4.png)  
+
 The source code is stored in the private repository, but issues can be reported in this GitHub repository.
 
 ## Installation
