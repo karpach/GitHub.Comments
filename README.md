@@ -21,6 +21,11 @@ GitHub Comments is Visual Studio extension with the following features:
 - Applies threshold colors:
   - Greater or equal 50 characters warning (orange-like)
   - Greate than 72 characters error (red-like)
+
+### Atlassian Jira integration
+
+- Adds ticket summary to the Git Changes window title
+- Adds Jira button next to "Generate commit message", this button adds JIRA summary text to the commit message
   
 ![Screenshot3](Screenshots/screenshot3.png)  
 
