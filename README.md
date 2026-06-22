@@ -6,10 +6,13 @@ GitHub Comments is Visual Studio extension with the following features:
 ## Features
 - Enables spell checking in commit messages
 - Enables adding prefix based on the git branch name
+- GitHub Pull Request Comments Window - Displays all open pull requests with their comment information
 
 ![Screenshot1](Screenshots/screenshot1.png)
 
 ![Screenshot2](Screenshots/screenshot2.png)
+
+![Screenshot5](Screenshots/screenshot5.png)
 
 ## Pro Features
 
@@ -30,6 +33,11 @@ GitHub Comments is Visual Studio extension with the following features:
 ![Screenshot3](Screenshots/screenshot3.png)  
 
 ![Screenshot3](Screenshots/screenshot4.png)  
+
+### GitHub Comments Badge - Shows the number of pull request comments that need your reply
+- Links to GitHub Pull Request Comments Window
+
+![Screenshot5](Screenshots/screenshot6.png)
 
 The source code is stored in the private repository, but issues can be reported in this GitHub repository.
 
